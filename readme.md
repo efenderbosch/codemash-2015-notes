@@ -33,3 +33,10 @@
   * translates to MapReduce or DAG(Tez)
 3. Apache Pig
   * Not SQL. Procedural, not declarative.
+4. Workflow schedulers
+  * Apache oozie
+  * LinkedIn's Azkaban
+  * Spotify's Luigi (python)
+5. YARN (MapReduce 2.0)
+6. Apache Spark
+  * better, faster MapReduce
