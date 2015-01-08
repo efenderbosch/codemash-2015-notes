@@ -22,3 +22,4 @@
 5. YARN (MapReduce 2.0)
 6. Apache Spark
   * better, faster MapReduce
+7. Storm
